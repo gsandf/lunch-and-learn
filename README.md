@@ -16,6 +16,7 @@ There are some _great tools_ to help you create a good deck:
 
 - [GitPitch](https://gitpitch.com/)
 - [Remark](https://github.com/gnab/remark)
+- [Reveal.js](https://github.com/hakimel/reveal.js/)
 - [Spectacle](https://github.com/FormidableLabs/spectacle)
 
 There are also amazing, _free hosting providers_ you can use (if needed):
