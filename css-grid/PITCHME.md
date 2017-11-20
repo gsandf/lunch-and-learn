@@ -53,7 +53,7 @@ Block mode is excellent... _for documents_
 
 The lines between each column and row
 
-![Grid Line](https://github.com/gsandf/lunch-and-learn/blob/seth-css-grid/css-grid/grid-line.svg)
+![Grid Line](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-line.svg)
 
 +++
 
@@ -61,7 +61,7 @@ The lines between each column and row
 
 A single and smallest unit in a grid
 
-![Grid Cell](https://github.com/gsandf/lunch-and-learn/blob/seth-css-grid/css-grid/grid-cell.svg)
+![Grid Cell](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-cell.svg)
 
 +++
 
@@ -69,7 +69,7 @@ A single and smallest unit in a grid
 
 Rectangular space containing any number of cells
 
-![Grid Area](https://github.com/gsandf/lunch-and-learn/blob/seth-css-grid/css-grid/grid-area.svg)
+![Grid Area](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-area.svg)
 
 +++
 
@@ -77,7 +77,7 @@ Rectangular space containing any number of cells
 
 The space between two grid lines
 
-![Grid Track](https://github.com/gsandf/lunch-and-learn/blob/seth-css-grid/css-grid/grid-track.svg)
+![Grid Track](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-track.svg)
 
 +++
 
@@ -85,7 +85,7 @@ The space between two grid lines
 
 A horizontal track
 
-![Grid Row](https://github.com/gsandf/lunch-and-learn/blob/seth-css-grid/css-grid/grid-row.svg)
+![Grid Row](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-row.svg)
 
 +++
 
@@ -93,7 +93,7 @@ A horizontal track
 
 A vertical track
 
-![Grid Column](https://github.com/gsandf/lunch-and-learn/blob/seth-css-grid/css-grid/grid-column.svg)
+![Grid Column](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-column.svg)
 
 +++
 
@@ -101,4 +101,4 @@ A vertical track
 
 Space between the grid tracks
 
-![Grid Gutter](https://github.com/gsandf/lunch-and-learn/blob/seth-css-grid/css-grid/grid-gutter.svg)
+![Grid Gutter](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-gutter.svg)
