@@ -43,6 +43,8 @@ In documents:
 
 Block mode is excellent... _for documents_
 
+Not so much for apps
+
 ---
 
 # Introducing CSS Grid
