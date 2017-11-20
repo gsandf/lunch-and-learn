@@ -59,7 +59,7 @@ The lines between each column and row
 
 ## Cell
 
-A single and smallest unit in a grid
+A single unit in a grid
 
 ![Grid Cell](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-cell.svg?sanitize=true)
 
@@ -102,3 +102,9 @@ A vertical track
 Space between the grid tracks
 
 ![Grid Gutter](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-gutter.svg?sanitize=true)
+
+---
+
+# Examples
+
+[General Examples](https://codepen.io/SethGunnells/pen/ZaXGpK?editors=1100)
