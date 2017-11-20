@@ -69,7 +69,7 @@ A single and smallest unit in a grid
 
 Rectangular space containing any number of cells
 
-![Grid Area](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-area.svg)
+![Grid Area](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-area.svg?sanitize=true)
 
 +++
 
@@ -77,7 +77,7 @@ Rectangular space containing any number of cells
 
 The space between two grid lines
 
-![Grid Track](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-track.svg)
+![Grid Track](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-track.svg?sanitize=true)
 
 +++
 
@@ -85,7 +85,7 @@ The space between two grid lines
 
 A horizontal track
 
-![Grid Row](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-row.svg)
+![Grid Row](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-row.svg?sanitize=true)
 
 +++
 
@@ -93,7 +93,7 @@ A horizontal track
 
 A vertical track
 
-![Grid Column](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-column.svg)
+![Grid Column](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-column.svg?sanitize=true)
 
 +++
 
@@ -101,4 +101,4 @@ A vertical track
 
 Space between the grid tracks
 
-![Grid Gutter](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-gutter.svg)
+![Grid Gutter](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-gutter.svg?sanitize=true)
