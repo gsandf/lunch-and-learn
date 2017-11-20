@@ -53,7 +53,7 @@ Block mode is excellent... _for documents_
 
 The lines between each column and row
 
-![Grid Line](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-line.svg)
+![Grid Line](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-line.svg?sanitize=true)
 
 +++
 
@@ -61,7 +61,7 @@ The lines between each column and row
 
 A single and smallest unit in a grid
 
-![Grid Cell](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-cell.svg)
+![Grid Cell](https://raw.githubusercontent.com/gsandf/lunch-and-learn/seth-css-grid/css-grid/grid-cell.svg?sanitize=true)
 
 +++
 
