@@ -17,7 +17,7 @@ There are several different _layout modes_ in CSS
 
 Let's briefly highlight _block layout_
 
----
++++
 
 ## Block layout
 
