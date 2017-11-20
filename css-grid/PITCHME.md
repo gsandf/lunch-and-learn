@@ -4,9 +4,9 @@ _The layout framework we've been waiting for_
 
 ---
 
-# Layout Modes
+## Layout Modes
 
-There are different _layout modes_ for different situations in CSS
+There are several different _layout modes_ in CSS
 
 * Block
 * Inline
@@ -15,29 +15,36 @@ There are different _layout modes_ for different situations in CSS
 * Flexible box (flexbox)
 * Grid
 
-I want to briefly highlight _block_ before we move on
+Let's briefly highlight _block layout_
 
 ---
 
-# Block layout
+## Block layout
 
-This layout mode is what we're most familiar with in CSS
+The most familiar layout mode
 
-There are a few major points:
+A few major points:
 
-* Vertical layout ranges from difficult to impossible
-* Horizontal layout is restricted to what you can accomplish with floating
-  elements
+* Vertical layout is impossible
+* Horizontal layout with floats
 
-It's important to understand _why_ layout is difficult in block mode
+But _why_ is it difficult?
 
-The web was originally meant for documents and in documents:
++++
+
+## Block layout
+
+The web was for documents
+
+In documents:
 
 * Vertical layout is determined by content
-* Images often "float" to the left or right of text
+* Images "float" to the left or right of text
 
-In truth, the basic block model is excellent _for documents_
+Block mode is excellent... _for documents_
 
 ---
 
 # Introducing CSS Grid
+
+---
