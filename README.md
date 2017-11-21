@@ -7,6 +7,7 @@
 ## List of presentations
 
 - [React Native & Expo](https://gitpitch.com/gsandf/lunch-and-learn/master?grs=github&t=night&p=react-native)
+- [CSS Grid](https://gitpitch.com/gsandf/lunch-and-learn?grs=github&t=white&p=css-grid)
 
 ## How to contribute
 
