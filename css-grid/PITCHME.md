@@ -121,6 +121,10 @@ Space between the grid tracks
 
 [Responsive Tiles Example](https://codepen.io/SethGunnells/pen/rYJZWZ?editors=1100)
 
+[Handling Any Markup Example](https://codepen.io/SethGunnells/pen/wPmJmd)
+
 [Mozilla's Guide](https://mozilladevelopers.github.io/playground/css-grid)
+
+[Mozilla Developer Network Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 [CSS Tricks Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
