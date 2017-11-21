@@ -51,6 +51,12 @@ Not so much for apps
 
 +++
 
+## First off...
+
+![Usage](css-grid/usage-stats.png)
+
++++
+
 ## Line
 
 The lines between each column and row
