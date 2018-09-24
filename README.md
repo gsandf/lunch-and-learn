@@ -9,8 +9,8 @@
 - [React Native & Expo](https://gitpitch.com/gsandf/lunch-and-learn/master?grs=github&t=night&p=react-native)
 - [CSS Grid](https://gitpitch.com/gsandf/lunch-and-learn?grs=github&t=white&p=css-grid)
 - [GraphQL](graphql/)
-- [Site Builder Overview: Wix] (https://docs.google.com/presentation/d/1IJBd8Y8y2cw5yeOHLXDBCH6W_taQzbkCBYyU6tw__tE/edit?usp=sharing)
-- [Site Builder Overview: Squarespace] (https://docs.google.com/presentation/d/1XFUOnNXJd6n91wYFAzXuHy2PXUhX7-kPVS0wGiBsQGA/edit?usp=sharing)
+- [Site Builder Overview: Wix](https://docs.google.com/presentation/d/1IJBd8Y8y2cw5yeOHLXDBCH6W_taQzbkCBYyU6tw__tE/edit?usp=sharing)
+- [Site Builder Overview: Squarespace](https://docs.google.com/presentation/d/1XFUOnNXJd6n91wYFAzXuHy2PXUhX7-kPVS0wGiBsQGA/edit?usp=sharing)
 
 ## How to contribute
 
